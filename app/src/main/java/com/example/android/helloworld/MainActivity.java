@@ -13,7 +13,8 @@ public class MainActivity extends AppCompatActivity {
     }
     public void TestPrint()
     {
-        System.out.println("tTest String Github");
+        System.out.println("Test String Github");
+        System.out.println("Test2 - after Git post, String Github");
 
     }
 }
